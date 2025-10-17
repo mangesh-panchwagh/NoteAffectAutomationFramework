@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.noteaffect.tests.NoteAffect.PageObjectModelTC.TestNoteAffectLogin_03_Prop_Improved_POM">
+			<methods>
+				<include name="test_negative_noteaffect_login"></include>
+				<include name="testLoginPositiveNoteAffect"></include>
+				<include name="testPageTitleValidation"></include>
+				<include name="testURLValidation"></include>
+				<include name="validUserNameValidPasswordTest"></include>
+				<include name="validUserNameInValidPasswordTest"></include>	
+				<include name="InvalidUserNameValidPasswordTest"></include>
+				<include name="InvalidUserNameInValidPasswordTest"></include>
+				<include name="BlankUsernameValidPasswordTest"></include>
+				<include name="validUserNameBlankPasswordTest"></include>
+				<include name="BlankUsernameBlankpasswordTest"></include>
+			</methods>
+		</class>		  
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
