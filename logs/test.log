@@ -498,3 +498,91 @@
 2025-10-27 16:02:38 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Valid UserName Blank Password Test
 2025-10-27 16:02:39 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for blank UserName Blank dPassword
 2025-10-27 16:02:41 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Blank UserName Blank Password Test
+2025-10-27 16:20:49 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-10-27 16:20:53 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Asserting the invalid credentials
+2025-10-27 16:20:54 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-10-27 16:21:06 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test cases
+2025-10-27 16:21:08 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Page Title validation
+2025-10-27 16:21:10 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Title verification is done
+2025-10-27 16:21:11 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for URL validation
+2025-10-27 16:21:14 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - URL verification is done
+2025-10-27 16:21:15 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName ValidPassword
+2025-10-27 16:21:23 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case valid UserName ValidPassword Test
+2025-10-27 16:21:24 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName InValidPassword
+2025-10-27 16:21:28 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case valid UserName InValidPassword Test
+2025-10-27 16:21:29 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Invalid UserName Valid dPassword
+2025-10-27 16:21:33 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Invalid UserName valid Password Test
+2025-10-27 16:21:34 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Invalid UserName InValid dPassword
+2025-10-27 16:21:38 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Invalid UserName In valid Password Test
+2025-10-27 16:21:39 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Blank UserName Valid dPassword
+2025-10-27 16:21:42 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Blank UserName valid Password Test
+2025-10-27 16:21:44 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName Blank dPassword
+2025-10-27 16:21:47 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Valid UserName Blank Password Test
+2025-10-27 16:21:48 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for blank UserName Blank dPassword
+2025-10-27 16:21:53 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Blank UserName Blank Password Test
+2025-10-27 16:22:35 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for blank UserName Blank dPassword
+2025-10-27 16:22:37 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Blank UserName Blank Password Test
+2025-10-27 16:22:39 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Blank UserName Valid dPassword
+2025-10-27 16:22:42 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Blank UserName valid Password Test
+2025-10-27 16:22:44 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Invalid UserName InValid dPassword
+2025-10-27 16:22:48 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Invalid UserName In valid Password Test
+2025-10-27 16:22:49 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Invalid UserName Valid dPassword
+2025-10-27 16:22:53 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Invalid UserName valid Password Test
+2025-10-27 16:22:54 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-10-27 16:23:06 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test cases
+2025-10-27 16:23:07 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Page Title validation
+2025-10-27 16:23:09 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Title verification is done
+2025-10-27 16:23:11 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for URL validation
+2025-10-27 16:23:13 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - URL verification is done
+2025-10-27 16:23:15 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-10-27 16:23:18 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Asserting the invalid credentials
+2025-10-27 16:23:19 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName Blank dPassword
+2025-10-27 16:23:22 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Valid UserName Blank Password Test
+2025-10-27 16:23:24 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName InValidPassword
+2025-10-27 16:23:28 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case valid UserName InValidPassword Test
+2025-10-27 16:23:29 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName ValidPassword
+2025-10-27 16:23:41 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case valid UserName ValidPassword Test
+2025-10-27 16:23:50 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for blank UserName Blank dPassword
+2025-10-27 16:23:53 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Blank UserName Blank Password Test
+2025-10-27 16:23:54 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Blank UserName Valid dPassword
+2025-10-27 16:24:01 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Blank UserName valid Password Test
+2025-10-27 16:24:03 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Invalid UserName InValid dPassword
+2025-10-27 16:24:06 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Invalid UserName In valid Password Test
+2025-10-27 16:24:07 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Invalid UserName Valid dPassword
+2025-10-27 16:24:11 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Invalid UserName valid Password Test
+2025-10-27 16:24:12 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-10-27 16:24:21 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test cases
+2025-10-27 16:24:22 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Page Title validation
+2025-10-27 16:24:25 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Title verification is done
+2025-10-27 16:24:26 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for URL validation
+2025-10-27 16:24:29 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - URL verification is done
+2025-10-27 16:24:30 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-10-27 16:24:33 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Asserting the invalid credentials
+2025-10-27 16:24:35 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName Blank dPassword
+2025-10-27 16:24:37 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Valid UserName Blank Password Test
+2025-10-27 16:24:39 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName InValidPassword
+2025-10-27 16:24:42 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case valid UserName InValidPassword Test
+2025-10-27 16:24:44 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName ValidPassword
+2025-10-27 16:24:52 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case valid UserName ValidPassword Test
+2025-10-27 16:28:35 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for blank UserName Blank dPassword
+2025-10-27 16:28:44 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Blank UserName Blank Password Test
+2025-10-27 16:28:46 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Blank UserName Valid dPassword
+2025-10-27 16:28:52 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Blank UserName valid Password Test
+2025-10-27 16:28:53 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Invalid UserName InValid dPassword
+2025-10-27 16:29:01 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Invalid UserName In valid Password Test
+2025-10-27 16:29:03 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Invalid UserName Valid dPassword
+2025-10-27 16:29:11 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Invalid UserName valid Password Test
+2025-10-27 16:29:12 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-10-27 16:29:22 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test cases
+2025-10-27 16:29:24 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Page Title validation
+2025-10-27 16:29:26 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Title verification is done
+2025-10-27 16:29:27 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for URL validation
+2025-10-27 16:29:29 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - URL verification is done
+2025-10-27 16:29:30 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-10-27 16:29:34 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Asserting the invalid credentials
+2025-10-27 16:29:35 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName Blank dPassword
+2025-10-27 16:29:38 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Valid UserName Blank Password Test
+2025-10-27 16:29:40 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName InValidPassword
+2025-10-27 16:29:43 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case valid UserName InValidPassword Test
+2025-10-27 16:29:45 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName ValidPassword
+2025-10-27 16:29:56 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case valid UserName ValidPassword Test
