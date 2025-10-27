@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+<!--			<class name="com.noteaffect.tests.NoteAffect.PageObjectModelTC.TestNoteAffectLogin_03_Prop_Improved_POM">-->
+<!--				<methods>-->
+<!--					<include name="testPageTitleValidation"></include>-->
+<!--					<include name="testURLValidation"></include>-->
+<!--				</methods>-->
+<!--			</class>-->
+			<class name="com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest">
+				<methods>
+					<include name="verifyAdminLogin"></include>
+					<include name="verifyAdminLoginURL"></include>
+					<include name="verifyllTabsPresent"></include>
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
