@@ -13,6 +13,7 @@ public class CommonToAllPages {
 
 	public void openNoteAffectURL() {
 		getDriver().get(PropertiesReader.readKey("url"));
+		getDriver().manage().window().maximize();
 		
 	}
 	

@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.noteaffect.tests.NoteAffect.PageObjectModelTC.TestNoteAffectLogin_03_Prop_Improved_POM">
+      <class name="com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest">
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="test_negative_noteaffect_login"/>
+          <include name="verifyAdminLogin"/>
         </methods>
-      </class> <!-- com.noteaffect.tests.NoteAffect.PageObjectModelTC.TestNoteAffectLogin_03_Prop_Improved_POM -->
+      </class> <!-- com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
