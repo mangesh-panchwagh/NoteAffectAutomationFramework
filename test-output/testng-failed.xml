@@ -6,16 +6,8 @@
       <class name="com.noteaffect.tests.NoteAffect.PageObjectModelTC.TestNoteAffectLogin_03_Prop_Improved_POM">
         <methods>
           <include name="tearDown"/>
-          <include name="testPageTitleValidation"/>
           <include name="setup"/>
-          <include name="validUserNameBlankPasswordTest"/>
-          <include name="BlankUsernameBlankpasswordTest"/>
           <include name="validUserNameInValidPasswordTest"/>
-          <include name="InvalidUserNameInValidPasswordTest"/>
-          <include name="BlankUsernameValidPasswordTest"/>
-          <include name="testURLValidation"/>
-          <include name="validUserNameValidPasswordTest"/>
-          <include name="InvalidUserNameValidPasswordTest"/>
         </methods>
       </class> <!-- com.noteaffect.tests.NoteAffect.PageObjectModelTC.TestNoteAffectLogin_03_Prop_Improved_POM -->
     </classes>

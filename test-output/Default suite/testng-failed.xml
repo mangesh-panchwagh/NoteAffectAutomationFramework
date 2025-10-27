@@ -7,7 +7,7 @@
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="BlankUsernameBlankpasswordTest"/>
+          <include name="test_negative_noteaffect_login"/>
         </methods>
       </class> <!-- com.noteaffect.tests.NoteAffect.PageObjectModelTC.TestNoteAffectLogin_03_Prop_Improved_POM -->
     </classes>

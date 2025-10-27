@@ -25,7 +25,7 @@ public class LoginPage extends CommonToAllPages {
 	private By username = By.id("Email");
 	private By password = By.id("Password");
 	private By signButton = By.xpath("//button[text()='Log in']");
-	private By error_message = By.xpath("//li[text()='Invalid login credentials.']");
+	private By error_message = By.xpath("//li[text()='Invalid login attempt.']");
 	private By blankUserNameErrorMessage = By.xpath("//span[contains(text(),'The Email field is required.')]");
 	private By blankPasswordErrorMessage = By.xpath("//span[contains(text(),'The Password field is required.')]");
 	private By loginErrorMessage = By.xpath("//li[contains(text(),'Invalid login credentials.')]");
