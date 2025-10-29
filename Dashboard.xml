@@ -13,7 +13,9 @@
 				<methods>
 					<include name="verifyAdminLogin"></include>
 					<include name="verifyAdminLoginURL"></include>
-					<include name="verifyllTabsPresent"></include>
+					<include name="verifyAllTabsPresent"></include>
+					<include name="verifyPresenterToolsSubTabsPresent"></include>
+					<include name="verifyAdminToolsSubTabsPresent"></include>
 				</methods>
 			</class>
 		</classes>
