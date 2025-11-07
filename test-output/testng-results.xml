@@ -2,68 +2,68 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-29T12:14:54 IST" name="Suite" finished-at="2025-10-29T12:15:49 IST" duration-ms="55511">
+  <suite started-at="2025-11-07T12:09:36 IST" name="Suite" finished-at="2025-11-07T12:12:15 IST" duration-ms="158941">
     <groups>
     </groups>
-    <test started-at="2025-10-29T12:14:54 IST" name="Test" finished-at="2025-10-29T12:15:49 IST" duration-ms="55511">
+    <test started-at="2025-11-07T12:09:36 IST" name="Test" finished-at="2025-11-07T12:12:15 IST" duration-ms="158941">
       <class name="com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:14:54 IST" name="setup" finished-at="2025-10-29T12:14:55 IST" duration-ms="1343" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:09:36 IST" name="setup" finished-at="2025-11-07T12:11:05 IST" duration-ms="88770" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyAdminLogin()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:14:55 IST" name="verifyAdminLogin" finished-at="2025-10-29T12:15:06 IST" duration-ms="10749" status="PASS">
+        <test-method signature="verifyAdminLogin()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:11:05 IST" name="verifyAdminLogin" finished-at="2025-11-07T12:11:19 IST" duration-ms="14767" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAdminLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:15:06 IST" name="tearDown" finished-at="2025-10-29T12:15:06 IST" duration-ms="174" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:11:19 IST" name="tearDown" finished-at="2025-11-07T12:11:20 IST" duration-ms="210" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:15:06 IST" name="setup" finished-at="2025-10-29T12:15:07 IST" duration-ms="881" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:11:20 IST" name="setup" finished-at="2025-11-07T12:11:21 IST" duration-ms="986" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyAdminLoginURL()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:15:07 IST" name="verifyAdminLoginURL" finished-at="2025-10-29T12:15:15 IST" duration-ms="8364" status="PASS">
+        <test-method signature="verifyAdminLoginURL()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:11:21 IST" name="verifyAdminLoginURL" finished-at="2025-11-07T12:11:32 IST" duration-ms="11724" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAdminLoginURL -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:15:15 IST" name="tearDown" finished-at="2025-10-29T12:15:16 IST" duration-ms="294" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:11:32 IST" name="tearDown" finished-at="2025-11-07T12:11:33 IST" duration-ms="233" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:15:16 IST" name="setup" finished-at="2025-10-29T12:15:17 IST" duration-ms="965" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:11:33 IST" name="setup" finished-at="2025-11-07T12:11:34 IST" duration-ms="886" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyAllTabsPresent()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:15:17 IST" name="verifyAllTabsPresent" finished-at="2025-10-29T12:15:25 IST" duration-ms="8856" status="PASS">
+        <test-method signature="verifyAllTabsPresent()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:11:34 IST" name="verifyAllTabsPresent" finished-at="2025-11-07T12:11:48 IST" duration-ms="14382" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAllTabsPresent -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:15:25 IST" name="tearDown" finished-at="2025-10-29T12:15:26 IST" duration-ms="187" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:11:48 IST" name="tearDown" finished-at="2025-11-07T12:11:48 IST" duration-ms="187" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:15:26 IST" name="setup" finished-at="2025-10-29T12:15:27 IST" duration-ms="992" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:11:48 IST" name="setup" finished-at="2025-11-07T12:11:49 IST" duration-ms="861" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyPresenterToolsSubTabsPresent()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:15:27 IST" name="verifyPresenterToolsSubTabsPresent" finished-at="2025-10-29T12:15:35 IST" duration-ms="8400" status="PASS">
+        <test-method signature="verifyPresenterToolsSubTabsPresent()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:11:49 IST" name="verifyPresenterToolsSubTabsPresent" finished-at="2025-11-07T12:11:59 IST" duration-ms="10124" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyPresenterToolsSubTabsPresent -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:15:35 IST" name="tearDown" finished-at="2025-10-29T12:15:35 IST" duration-ms="167" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:11:59 IST" name="tearDown" finished-at="2025-11-07T12:11:59 IST" duration-ms="212" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:15:35 IST" name="setup" finished-at="2025-10-29T12:15:36 IST" duration-ms="872" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:11:59 IST" name="setup" finished-at="2025-11-07T12:12:01 IST" duration-ms="1927" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyAdminToolsSubTabsPresent()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:15:36 IST" name="verifyAdminToolsSubTabsPresent" finished-at="2025-10-29T12:15:48 IST" duration-ms="12057" status="PASS">
+        <test-method signature="verifyAdminToolsSubTabsPresent()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:12:01 IST" name="verifyAdminToolsSubTabsPresent" finished-at="2025-11-07T12:12:14 IST" duration-ms="13073" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAdminToolsSubTabsPresent -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-10-29T12:15:48 IST" name="tearDown" finished-at="2025-10-29T12:15:49 IST" duration-ms="995" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest@73c60324]" started-at="2025-11-07T12:12:14 IST" name="tearDown" finished-at="2025-11-07T12:12:15 IST" duration-ms="361" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

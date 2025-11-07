@@ -835,3 +835,39 @@
 2025-10-29 12:15:17 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases verify all TabsPresent
 2025-10-29 12:15:27 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Presenter Tools Sub Tabs Present.
 2025-10-29 12:15:36 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Admin Tools Sub Tabs Present.
+2025-11-04 15:47:12 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Verify Admin Login.
+2025-11-04 15:47:24 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Admin Login Verification
+2025-11-04 15:47:25 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Verify Admin Login.
+2025-11-04 15:47:32 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Admin Login Verification with URL
+2025-11-04 15:47:34 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases verify all TabsPresent
+2025-11-04 15:47:44 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Presenter Tools Sub Tabs Present.
+2025-11-04 15:47:54 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Admin Tools Sub Tabs Present.
+2025-11-04 15:49:29 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-11-04 15:49:32 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Asserting the invalid credentials
+2025-11-04 15:49:33 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-11-04 15:49:42 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test cases
+2025-11-04 15:49:43 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Page Title validation
+2025-11-04 15:49:46 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Title verification is done
+2025-11-04 15:49:47 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for URL validation
+2025-11-04 15:49:50 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - URL verification is done
+2025-11-04 15:49:51 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName ValidPassword
+2025-11-04 15:50:03 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case valid UserName ValidPassword Test
+2025-11-04 15:50:04 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName InValidPassword
+2025-11-04 15:50:07 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case valid UserName InValidPassword Test
+2025-11-04 15:50:08 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Invalid UserName Valid dPassword
+2025-11-04 15:50:11 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Invalid UserName valid Password Test
+2025-11-04 15:50:12 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Invalid UserName InValid dPassword
+2025-11-04 15:50:15 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Invalid UserName In valid Password Test
+2025-11-04 15:50:16 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Blank UserName Valid dPassword
+2025-11-04 15:50:19 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Blank UserName valid Password Test
+2025-11-04 15:50:20 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName Blank dPassword
+2025-11-04 15:50:22 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Valid UserName Blank Password Test
+2025-11-04 15:50:23 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for blank UserName Blank dPassword
+2025-11-04 15:50:26 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Blank UserName Blank Password Test
+2025-11-07 12:11:05 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Verify Admin Login.
+2025-11-07 12:11:19 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Admin Login Verification
+2025-11-07 12:11:21 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Verify Admin Login.
+2025-11-07 12:11:32 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Admin Login Verification with URL
+2025-11-07 12:11:34 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases verify all TabsPresent
+2025-11-07 12:11:49 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Presenter Tools Sub Tabs Present.
+2025-11-07 12:12:01 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Admin Tools Sub Tabs Present.
