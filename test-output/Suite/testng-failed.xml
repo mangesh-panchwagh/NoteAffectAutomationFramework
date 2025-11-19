@@ -7,7 +7,7 @@
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="verifyAdminToolsSubTabsPresent"/>
+          <include name="verifyAllTabsPresent"/>
         </methods>
       </class> <!-- com.noteaffect.tests.NoteAffect.PageObjectModelTC.DashBoardTest -->
     </classes>

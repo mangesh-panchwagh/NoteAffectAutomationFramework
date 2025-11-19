@@ -871,3 +871,39 @@
 2025-11-07 12:11:34 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases verify all TabsPresent
 2025-11-07 12:11:49 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Presenter Tools Sub Tabs Present.
 2025-11-07 12:12:01 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Admin Tools Sub Tabs Present.
+2025-11-11 18:22:43 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Verify Admin Login.
+2025-11-11 18:22:51 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Admin Login Verification
+2025-11-11 18:22:52 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Verify Admin Login.
+2025-11-11 18:23:03 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Admin Login Verification with URL
+2025-11-11 18:23:04 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases verify all TabsPresent
+2025-11-11 18:23:44 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Presenter Tools Sub Tabs Present.
+2025-11-11 18:23:58 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Admin Tools Sub Tabs Present.
+2025-11-11 18:25:34 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Verify Admin Login.
+2025-11-11 18:25:42 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Admin Login Verification
+2025-11-11 18:25:43 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Verify Admin Login.
+2025-11-11 18:25:54 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Admin Login Verification with URL
+2025-11-11 18:25:55 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases verify all TabsPresent
+2025-11-11 18:26:04 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Presenter Tools Sub Tabs Present.
+2025-11-11 18:26:16 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Admin Tools Sub Tabs Present.
+2025-11-11 18:27:53 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-11-11 18:27:56 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Asserting the invalid credentials
+2025-11-11 18:27:57 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting the Testcases Page Object Model
+2025-11-11 18:28:08 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test cases
+2025-11-11 18:28:09 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Page Title validation
+2025-11-11 18:28:11 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Title verification is done
+2025-11-11 18:28:12 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for URL validation
+2025-11-11 18:28:14 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - URL verification is done
+2025-11-11 18:28:15 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName ValidPassword
+2025-11-11 18:28:23 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case valid UserName ValidPassword Test
+2025-11-11 18:28:25 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName InValidPassword
+2025-11-11 18:28:28 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case valid UserName InValidPassword Test
+2025-11-11 18:28:29 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Invalid UserName Valid dPassword
+2025-11-11 18:28:32 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Invalid UserName valid Password Test
+2025-11-11 18:28:33 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Invalid UserName InValid dPassword
+2025-11-11 18:28:36 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Invalid UserName In valid Password Test
+2025-11-11 18:28:38 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for Blank UserName Valid dPassword
+2025-11-11 18:28:40 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Blank UserName valid Password Test
+2025-11-11 18:28:41 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for valid UserName Blank dPassword
+2025-11-11 18:28:44 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Valid UserName Blank Password Test
+2025-11-11 18:28:45 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Starting of Test case for blank UserName Blank dPassword
+2025-11-11 18:28:47 INFO  TestNoteAffectLogin_03_Prop_Improved_POM - Done the Test case Blank UserName Blank Password Test

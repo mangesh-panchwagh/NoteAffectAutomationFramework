@@ -14,7 +14,7 @@ public class DashBoradPage extends CommonToAllPages{
 		this.driver = driver;
 	}
 	
-	private By presentationsTab = By.xpath("//span[contains(text(),'Presentations')]");
+	private By presentationsTab = By.xpath("//span[contains(text(),'Sessions')]");
 	private By PresenterToolsTab = By.xpath("//button[contains(text(),'Presenter Tools')]");
 	private By EventManagement = By.xpath("//span[contains(text(),'Event Management')]");
 	private By PollBuilder = By.xpath("//span[contains(text(),'Poll Builder')]");
